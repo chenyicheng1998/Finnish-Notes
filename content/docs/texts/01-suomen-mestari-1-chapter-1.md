@@ -218,50 +218,50 @@ bookToc: true
 
 ## Vocabulary List
 
-| Finnish | English | Word Type | Notes |
-|---------|---------|-----------|-------|
-| anteeksi | excuse me, sorry | expression | Fixed phrase |
-| olla | to be | verb | Irregular verb |
-| onko | is (question) | verb form | Question particle |
-| täällä | here | adverb | Location |
-| suomi | Finnish, Finland | noun | |
-| kurssi | course | noun | |
-| joo | yeah, yes | interjection | Informal |
-| tämä | this | pronoun | Demonstrative |
-| paikka | place, seat | noun | |
-| vapaa | free, available | adjective | |
-| hyvä | good | adjective | |
-| kiva | nice, cool | adjective | Colloquial |
-| minä | I | pronoun | Personal |
-| sinä | you | pronoun | Personal (informal) |
-| kuka | who | pronoun | Question word |
-| nimi | name | noun | |
-| hauska | nice, fun | adjective | |
-| tutustua | to get acquainted | verb | Infinitive |
-| kiitos | thanks, thank you | expression | |
-| samoin | likewise, same | adverb | |
-| moi | hi | interjection | Informal |
-| mitä kuuluu | how are you | expression | Fixed phrase |
-| terve | hi, hello | interjection | Informal |
-| kuulua | to be heard, to belong | verb | |
-| minulle kuuluu hyvää | I'm doing well | expression | Fixed phrase |
-| entä | how about, and | conjunction | |
-| ihan | quite, pretty | adverb | Colloquial |
-| tässä | here | adverb | |
-| minun | my | pronoun | Genitive case |
-| opettaja | teacher | noun | |
-| tervetuloa | welcome | expression | |
-| miten | how | adverb | Question word |
-| se | it | pronoun | Demonstrative |
-| kirjoittaa | to write | verb | |
-| etunimi | first name | noun | etu + nimi |
-| sukunimi | surname | noun | suku + nimi |
-| okei | okay | interjection | Borrowed |
-| kurssipäivä | course day | noun | kurssi + päivä |
-| maanantai | Monday | noun | Weekday |
-| keskiviikko | Wednesday | noun | Weekday |
-| torstai | Thursday | noun | Weekday |
-| kello | clock, o'clock | noun | Time expression |
+| Finnish              | English                | Word Type    | Notes               |
+| -------------------- | ---------------------- | ------------ | ------------------- |
+| anteeksi             | excuse me, sorry       | expression   | Fixed phrase        |
+| olla                 | to be                  | verb         | Irregular verb      |
+| onko                 | is (question)          | verb form    | Question particle   |
+| täällä               | here                   | adverb       | Location            |
+| suomi                | Finnish, Finland       | noun         |                     |
+| kurssi               | course                 | noun         |                     |
+| joo                  | yeah, yes              | interjection | Informal            |
+| tämä                 | this                   | pronoun      | Demonstrative       |
+| paikka               | place, seat            | noun         |                     |
+| vapaa                | free, available        | adjective    |                     |
+| hyvä                 | good                   | adjective    |                     |
+| kiva                 | nice, cool             | adjective    | Colloquial          |
+| minä                 | I                      | pronoun      | Personal            |
+| sinä                 | you                    | pronoun      | Personal (informal) |
+| kuka                 | who                    | pronoun      | Question word       |
+| nimi                 | name                   | noun         |                     |
+| hauska               | nice, fun              | adjective    |                     |
+| tutustua             | to get acquainted      | verb         | Infinitive          |
+| kiitos               | thanks, thank you      | expression   |                     |
+| samoin               | likewise, same         | adverb       |                     |
+| moi                  | hi                     | interjection | Informal            |
+| mitä kuuluu          | how are you            | expression   | Fixed phrase        |
+| terve                | hi, hello              | interjection | Informal            |
+| kuulua               | to be heard, to belong | verb         |                     |
+| minulle kuuluu hyvää | I'm doing well         | expression   | Fixed phrase        |
+| entä                 | how about, and         | conjunction  |                     |
+| ihan                 | quite, pretty          | adverb       | Colloquial          |
+| tässä                | here                   | adverb       |                     |
+| minun                | my                     | pronoun      | Genitive case       |
+| opettaja             | teacher                | noun         |                     |
+| tervetuloa           | welcome                | expression   |                     |
+| miten                | how                    | adverb       | Question word       |
+| se                   | it                     | pronoun      | Demonstrative       |
+| kirjoittaa           | to write               | verb         |                     |
+| etunimi              | first name             | noun         | etu + nimi          |
+| sukunimi             | surname                | noun         | suku + nimi         |
+| okei                 | okay                   | interjection | Borrowed            |
+| kurssipäivä          | course day             | noun         | kurssi + päivä      |
+| maanantai            | Monday                 | noun         | Weekday             |
+| keskiviikko          | Wednesday              | noun         | Weekday             |
+| torstai              | Thursday               | noun         | Weekday             |
+| kello                | clock, o'clock         | noun         | Time expression     |
 
 ---
 
