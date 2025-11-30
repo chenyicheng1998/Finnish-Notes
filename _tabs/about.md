@@ -6,6 +6,12 @@ order: 4
 
 # About These Notes 📖
 
+## 🌐 Language / 语言
+
+This site is available in two languages:
+- **English** - View posts under [Basic Courses](/Finnish-Notes/categories/basic-courses/) category
+- **中文** - 查看 [基础课程](/Finnish-Notes/categories/%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/) 分类下的文章
+
 ## Project Introduction
 
 Welcome to the **Finnish Learning Notes** project! This is a carefully curated learning resource library for those interested in learning Finnish.

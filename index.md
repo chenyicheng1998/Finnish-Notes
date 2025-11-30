@@ -8,18 +8,22 @@ layout: home
 
 This site contains Finnish language learning materials in both **English** and **Chinese (中文)**.
 
-## 📚 Content / 内容
+## 🌐 Quick Language Selection / 快速选择语言
 
-All lessons are organized by categories:
-- **Basic Courses** - Fundamental Finnish lessons
-- **基础课程** - 芬兰语基础课程
+<div style="text-align: center; margin: 2em 0;">
+  <a href="/Finnish-Notes/categories/basic-courses/" style="display: inline-block; padding: 10px 20px; margin: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    🇬🇧 English Lessons
+  </a>
+  <a href="/Finnish-Notes/categories/%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/" style="display: inline-block; padding: 10px 20px; margin: 10px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    🇨🇳 中文课程
+  </a>
+</div>
 
-## 🌐 Language Selection / 语言选择
+## 📚 Alternative Navigation / 其他导航方式
 
-- **English posts**: Browse all posts or filter by English tags
-- **中文内容**: 查看带有"中文"标签的文章
-
-Use the **Categories** and **Tags** in the sidebar to filter content by language.
+- Click **Categories** in the sidebar to see all categories
+- Use **Tags** to filter specific topics
+- Posts tagged with **中文** are in Chinese
 
 ---
 
