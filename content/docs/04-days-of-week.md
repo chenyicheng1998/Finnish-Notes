@@ -16,32 +16,32 @@ bookToc: true
 | --------------------- | ------------- | ------------------ |
 | Mikä päivä tänään on? | (Today is...) | What day is today? |
 
-| Finnish     | Chinese | When? (Milloin?) | On that day  |
-| ----------- | ------- | ---------------- | ------------ |
-| maanantai   | 周一    | maanantaina      | on Monday    |
-| tiistai     | 周二    | tiistaina        | on Tuesday   |
-| keskiviikko | 周三    | keskiviikkona    | on Wednesday |
-| torstai     | 周四    | torstaina        | on Thursday  |
-| perjantai   | 周五    | perjantaina      | on Friday    |
-| lauantai    | 周六    | lauantaina       | on Saturday  |
-| sunnuntai   | 周日    | sunnuntaina      | on Sunday    |
+| Finnish     | When? (Milloin?) | On that day  |
+| ----------- | ---------------- | ------------ |
+| maanantai   | maanantaina      | on Monday    |
+| tiistai     | tiistaina        | on Tuesday   |
+| keskiviikko | keskiviikkona    | on Wednesday |
+| torstai     | torstaina        | on Thursday  |
+| perjantai   | perjantaina      | on Friday    |
+| lauantai    | lauantaina       | on Saturday  |
+| sunnuntai   | sunnuntaina      | on Sunday    |
 
 ## Additional Time Words
 
-| Finnish     | Chinese | English |
-| ----------- | ------- | ------- |
-| viikonloppu | 周末    | weekend |
-| arkipäivä   | 周中    | weekday |
+| Finnish     | English |
+| ----------- | ------- |
+| viikonloppu | weekend |
+| arkipäivä   | weekday |
 
 ## Relative Days
 
-| Finnish       | Chinese | English                  |
-| ------------- | ------- | ------------------------ |
-| toissapäivänä | 前天    | the day before yesterday |
-| eilen         | 昨天    | yesterday                |
-| tänään        | 今天    | today                    |
-| huomenna      | 明天    | tomorrow                 |
-| ylihuomenna   | 后天    | the day after tomorrow   |
+| Finnish       | English                  |
+| ------------- | ------------------------ |
+| toissapäivänä | the day before yesterday |
+| eilen         | yesterday                |
+| tänään        | today                    |
+| huomenna      | tomorrow                 |
+| ylihuomenna   | the day after tomorrow   |
 
 ## Example Sentences
 

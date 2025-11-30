@@ -14,13 +14,13 @@ Vowel harmony is a fundamental rule in Finnish where vowels within a word must b
 
 Finnish vowels are divided into three groups:
 
-### Back Vowels (后元音)
+### Back Vowels
 - **a, o, u**
 
-### Neutral Vowels (中立元音)
+### Neutral Vowels
 - **e, i**
 
-### Front Vowels (前元音)
+### Front Vowels
 - **ä, ö, y**
 
 ## The Rule
@@ -46,8 +46,3 @@ Finnish vowels are divided into three groups:
 ## Important Note
 
 You cannot mix back and front vowels in the same word (except for compound words and loan words).
-
----
-
-**Practice Tip:**
-When learning new words, pay attention to which vowel group they belong to. This will help you use correct endings.

@@ -28,20 +28,20 @@ bookToc: true
 
 ## 其他时间词汇
 
-| 芬兰语      | 中文 | 英文    |
-| ----------- | ---- | ------- |
-| viikonloppu | 周末 | weekend |
-| arkipäivä   | 周中 | weekday |
+| 芬兰语      | 中文 |
+| ----------- | ---- |
+| viikonloppu | 周末 |
+| arkipäivä   | 周中 |
 
 ## 相对日期
 
-| 芬兰语        | 中文 | 英文                     |
-| ------------- | ---- | ------------------------ |
-| toissapäivänä | 前天 | the day before yesterday |
-| eilen         | 昨天 | yesterday                |
-| tänään        | 今天 | today                    |
-| huomenna      | 明天 | tomorrow                 |
-| ylihuomenna   | 后天 | the day after tomorrow   |
+| 芬兰语        | 中文 |
+| ------------- | ---- |
+| toissapäivänä | 前天 |
+| eilen         | 昨天 |
+| tänään        | 今天 |
+| huomenna      | 明天 |
+| ylihuomenna   | 后天 |
 
 ## 例句
 
