@@ -13,6 +13,9 @@ theme: jekyll-theme-chirpy
 lang: en
 timezone: Europe/Helsinki
 
+# Sidebar settings
+toc: true
+
 # Social
 github:
   username: chenyicheng1998
@@ -25,6 +28,10 @@ social:
 
 # Site settings
 theme_mode: light
+
+# Sidebar
+sidebar:
+  display: post
 
 # Pagination
 paginate: 10
