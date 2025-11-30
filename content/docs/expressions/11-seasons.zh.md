@@ -1,12 +1,12 @@
 ---
-title: "季节和月份"
+title: "季节"
 weight: 11
 bookToc: true
 ---
 
-# Vuodenajat ja Kuukaudet - 季节和月份 🍂
+# Vuodenajat - 季节 🍂
 
-## 季节 (Vuodenajat)
+## 四季
 
 季节使用 **-lla/-llä** 格表示"在某个季节"。
 
@@ -17,33 +17,27 @@ bookToc: true
 | 夏天 | kesä   | kesällä  | 在夏天 |
 | 秋天 | syksy  | syksyllä | 在秋天 |
 
-### 例句
+## 例句
+
 - Kesällä on lämmin. (夏天很温暖。)
 - Talvella sataa lunta. (冬天下雪。)
 - Keväällä kukat kasvavat. (春天花开。)
+- Syksyllä lehdet putoavat. (秋天落叶。)
 
-## 月份 (Kuukaudet)
+## 季节相关表达
 
-月份使用 **-ssa/-ssä** 格表示"在某个月"。
-
-| 序号 | 月份      | 在该月       |
-| ---- | --------- | ------------ |
-| 1    | tammikuu  | tammikuussa  |
-| 2    | helmikuu  | helmikuussa  |
-| 3    | maaliskuu | maaliskuussa |
-| 4    | huhtikuu  | huhtikuussa  |
-| 5    | toukokuu  | toukokuussa  |
-| 6    | kesäkuu   | kesäkuussa   |
-| 7    | heinäkuu  | heinäkuussa  |
-| 8    | elokuu    | elokuussa    |
-| 9    | syyskuu   | syyskuussa   |
-| 10   | lokakuu   | lokakuussa   |
-| 11   | marraskuu | marraskuussa |
-| 12   | joulukuu  | joulukuussa  |
-
-### 例句
-- Joulukuu on talvella. (十二月在冬天。)
-- Minun syntymäpäivä on kesäkuussa. (我的生日在六月。)
+| 芬兰语                | 中文             |
+| --------------------- | ---------------- |
+| Mikä vuodenaika on?   | 现在是什么季节？ |
+| Nyt on kesä.          | 现在是夏天。     |
+| Talvi on kylmä.       | 冬天很冷。       |
+| Rakastan kevättä.     | 我爱春天。       |
+| Syksy on kaunis.      | 秋天很美。       |
+| Kesä on suosikkini.   | 夏天是我最喜欢的 |
+| Vuodenajat vaihtuvat. | 季节在变换。     |
+| neljä vuodenaikaa     | 四季             |
+| lämpimät vuodenajat   | 温暖的季节       |
+| kylmät vuodenajat     | 寒冷的季节       |
 
 ## 一天中的时段 (Vuorokausi)
 
@@ -63,3 +57,4 @@ bookToc: true
 - Aamulla juon kahvia. (早上我喝咖啡。)
 - Illalla katson televisiota. (晚上我看电视。)
 - Yöllä nukkuu. (晚上睡觉。)
+- Päivällä aurinko paistaa. (白天阳光普照。)

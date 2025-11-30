@@ -1,43 +1,14 @@
 ---
-title: "Genitive and Partitive Cases"
-weight: 12
+title: "Partitive Case"
+weight: 13
 bookToc: true
 ---
 
-# Genetiivi ja Partitiivi - Genitive and Partitive Cases 📝
-
-## Genitive Case (Genetiivi) -n
-
-The genitive case expresses possession or relationship, similar to the possessive "'s" in English.
-
-### Formation
-
-For words ending in a consonant, add **-n**.
-
-For words ending in a vowel, the formation depends on the word type (see noun declension patterns).
-
-### Personal Pronouns in Genitive
-
-| Nominative | Genitive | English       |
-| ---------- | -------- | ------------- |
-| minä       | minun    | my            |
-| sinä       | sinun    | your          |
-| hän        | hänen    | his/her       |
-| me         | meidän   | our           |
-| te         | teidän   | your (plural) |
-| he         | heidän   | their         |
-
-### Examples
-- Minun kirja (my book)
-- Sinun auto (your car)
-- Hänen talo (his/her house)
-- Tämän talon ovi (this house's door)
-
-## Partitive Case (Partitiivi) -a/-ä/-ta/-tä
+# Partitiivi - Partitive Case 📝
 
 The partitive case is one of the most important cases in Finnish. It indicates a partial amount or an incomplete action.
 
-### Formation Rules
+## Formation Rules
 
 1. **Single vowel ending** (except e, some i): add **-a/-ä**
 2. **Ending in -ia, -ea, -eä**: add **-a/-ä**
@@ -45,9 +16,9 @@ The partitive case is one of the most important cases in Finnish. It indicates a
 4. **Ending in -e**: add **-tta/-ttä**
 5. **Ending in -nen**: change to **-sta/-stä**
 
-### When to Use Partitive
+## When to Use Partitive
 
-#### 1. After Numbers
+### 1. After Numbers
 
 **monta** + Partitive = many (countable)
 
@@ -63,9 +34,11 @@ The partitive case is one of the most important cases in Finnish. It indicates a
 
 Examples:
 - kaksi kirjaa (two books)
+- kolme taloa (three houses)
 - paljon vettä (much water)
+- vähän aikaa (a little time)
 
-#### 2. After Partitive Verbs
+### 2. After Partitive Verbs
 
 Some verbs always take objects in the partitive case:
 
@@ -82,17 +55,28 @@ Some verbs always take objects in the partitive case:
 Examples:
 - Minä puhun suomea. (I speak Finnish.)
 - Hän rakastaa musiikkia. (He/she loves music.)
+- Katson televisiota. (I watch television.)
 
-#### 3. With Negative Sentences
+### 3. With Negative Sentences
 
 Objects in negative sentences are in the partitive case:
 
 - Minulla ei ole autoa. (I don't have a car.)
 - En ymmärrä suomea. (I don't understand Finnish.)
+- En näe sinua. (I don't see you.)
 
-## Examples in Context
+### 4. Partial Amounts
 
-- Haluan kahvia. (I want coffee.) - partitive, partial amount
+When referring to an indefinite or partial amount:
+
+- Haluan kahvia. (I want coffee.) - some coffee, not a specific cup
+- Ostin maitoa. (I bought milk.) - some milk, not all the milk
+
+## Nominative vs. Partitive
+
+Compare these examples:
+
 - Kahvi on pöydällä. (The coffee is on the table.) - nominative, specific item
-- Ostan kaksi leipää. (I buy two loaves of bread.) - partitive after number
-- Rakastan sinua. (I love you.) - partitive verb
+- Haluan kahvia. (I want coffee.) - partitive, partial amount
+- Syön omenan. (I eat the/an apple.) - accusative (same as nominative for singular), whole object
+- Syön omenaa. (I'm eating apple.) - partitive, ongoing/partial action

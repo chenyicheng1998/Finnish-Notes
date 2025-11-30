@@ -1,12 +1,12 @@
 ---
-title: "Seasons and Months"
+title: "Seasons"
 weight: 11
 bookToc: true
 ---
 
-# Vuodenajat ja Kuukaudet - Seasons and Months 🍂
+# Vuodenajat - Seasons 🍂
 
-## Seasons (Vuodenajat)
+## Four Seasons
 
 The case ending **-lla/-llä** is used with seasons to indicate "in/during that season".
 
@@ -17,37 +17,31 @@ The case ending **-lla/-llä** is used with seasons to indicate "in/during that 
 | Summer | kesä    | kesällä        | in summer      |
 | Autumn | syksy   | syksyllä       | in autumn/fall |
 
-### Examples
+## Examples
+
 - Kesällä on lämmin. (It's warm in summer.)
 - Talvella sataa lunta. (It snows in winter.)
 - Keväällä kukat kasvavat. (Flowers grow in spring.)
+- Syksyllä lehdet putoavat. (Leaves fall in autumn.)
 
-## Months (Kuukaudet)
+## Seasonal Expressions
 
-The case ending **-ssa/-ssä** is used with months to indicate "in that month".
-
-| Number | Month     | In that month |
-| ------ | --------- | ------------- |
-| 1      | tammikuu  | tammikuussa   |
-| 2      | helmikuu  | helmikuussa   |
-| 3      | maaliskuu | maaliskuussa  |
-| 4      | huhtikuu  | huhtikuussa   |
-| 5      | toukokuu  | toukokuussa   |
-| 6      | kesäkuu   | kesäkuussa    |
-| 7      | heinäkuu  | heinäkuussa   |
-| 8      | elokuu    | elokuussa     |
-| 9      | syyskuu   | syyskuussa    |
-| 10     | lokakuu   | lokakuussa    |
-| 11     | marraskuu | marraskuussa  |
-| 12     | joulukuu  | joulukuussa   |
-
-### Examples
-- Joulukuu on talvella. (December is in winter.)
-- Minun syntymäpäivä on kesäkuussa. (My birthday is in June.)
+| Finnish               | English                |
+| --------------------- | ---------------------- |
+| Mikä vuodenaika on?   | What season is it?     |
+| Nyt on kesä.          | Now it's summer.       |
+| Talvi on kylmä.       | Winter is cold.        |
+| Rakastan kevättä.     | I love spring.         |
+| Syksy on kaunis.      | Autumn is beautiful.   |
+| Kesä on suosikkini.   | Summer is my favorite. |
+| Vuodenajat vaihtuvat. | The seasons change.    |
+| neljä vuodenaikaa     | four seasons           |
+| lämpimät vuodenajat   | warm seasons           |
+| kylmät vuodenajat     | cold seasons           |
 
 ## Times of Day (Vuorokausi)
 
-The case ending **-lla/-llä** is used to indicate "in/during that time".
+The case ending **-lla/-llä** is also used to indicate "in/during that time".
 
 | Finnish   | In that time | English             |
 | --------- | ------------ | ------------------- |
@@ -63,3 +57,4 @@ The case ending **-lla/-llä** is used to indicate "in/during that time".
 - Aamulla juon kahvia. (I drink coffee in the morning.)
 - Illalla katson televisiota. (I watch TV in the evening.)
 - Yöllä nukkuu. (One sleeps at night.)
+- Päivällä aurinko paistaa. (The sun shines during the day.)
