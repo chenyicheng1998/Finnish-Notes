@@ -18,14 +18,14 @@ For words ending in a vowel, the formation depends on the word type (see noun de
 
 ### Personal Pronouns in Genitive
 
-| Nominative | Genitive | English |
-|------------|----------|---------|
-| minä | minun | my |
-| sinä | sinun | your |
-| hän | hänen | his/her |
-| me | meidän | our |
-| te | teidän | your (plural) |
-| he | heidän | their |
+| Nominative | Genitive | English       |
+| ---------- | -------- | ------------- |
+| minä       | minun    | my            |
+| sinä       | sinun    | your          |
+| hän        | hänen    | his/her       |
+| me         | meidän   | our           |
+| te         | teidän   | your (plural) |
+| he         | heidän   | their         |
 
 ### Examples
 - Minun kirja (my book)
@@ -69,15 +69,15 @@ Examples:
 
 Some verbs always take objects in the partitive case:
 
-| Verb | English |
-|------|---------|
-| auttaa | to help |
-| etsiä | to search |
-| katsoa | to watch/look |
-| puhua | to speak |
-| rakastaa | to love |
-| soittaa | to play (instrument) |
-| ymmärtää | to understand |
+| Verb     | English              |
+| -------- | -------------------- |
+| auttaa   | to help              |
+| etsiä    | to search            |
+| katsoa   | to watch/look        |
+| puhua    | to speak             |
+| rakastaa | to love              |
+| soittaa  | to play (instrument) |
+| ymmärtää | to understand        |
 
 Examples:
 - Minä puhun suomea. (I speak Finnish.)

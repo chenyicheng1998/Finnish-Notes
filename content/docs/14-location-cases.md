@@ -117,8 +117,8 @@ Indicates movement away from a surface.
 
 ## Summary Table
 
-| Question | Internal (S) | External (L) |
-|----------|-------------|-------------|
-| Where to? (Mihin?) | Illative -Vn/-hVn/-seen | Allative -lle |
-| Where? (Missä?) | Inessive -ssa/-ssä | Adessive -lla/-llä |
-| Where from? (Mistä?) | Elative -sta/-stä | Ablative -lta/-ltä |
+| Question             | Internal (S)            | External (L)       |
+| -------------------- | ----------------------- | ------------------ |
+| Where to? (Mihin?)   | Illative -Vn/-hVn/-seen | Allative -lle      |
+| Where? (Missä?)      | Inessive -ssa/-ssä      | Adessive -lla/-llä |
+| Where from? (Mistä?) | Elative -sta/-stä       | Ablative -lta/-ltä |

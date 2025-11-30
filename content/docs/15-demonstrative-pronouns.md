@@ -8,32 +8,32 @@ bookToc: true
 
 ## Basic Forms
 
-| Singular | English | Plural | English |
-|----------|---------|--------|---------|
-| tämä | this | nämä | these |
-| tuo | that | nuo | those |
-| se | it (mentioned before) | ne | they (things mentioned before) |
+| Singular | English               | Plural | English                        |
+| -------- | --------------------- | ------ | ------------------------------ |
+| tämä     | this                  | nämä   | these                          |
+| tuo      | that                  | nuo    | those                          |
+| se       | it (mentioned before) | ne     | they (things mentioned before) |
 
 ## Case Declension
 
 ### Singular Forms
 
-| Case | tämä | tuo | se | mikä |
-|------|------|-----|----|----|
-| Nominative | tämä | tuo | se | mikä |
-| Partitive | tätä | tuota | sitä | mitä |
-| Genitive | tämän | tuon | sen | minkä |
+| Case               | tämä  | tuo    | se     | mikä  |
+| ------------------ | ----- | ------ | ------ | ----- |
+| Nominative         | tämä  | tuo    | se     | mikä  |
+| Partitive          | tätä  | tuota  | sitä   | mitä  |
+| Genitive           | tämän | tuon   | sen    | minkä |
 | Illative (S-MIHIN) | tähän | tuohon | siihen | mihin |
-| Inessive (S-MISSÄ) | tässä | tuossa | siinä | missä |
-| Elative (S-MISTÄ) | tästä | tuosta | siitä | mistä |
-| Allative (L-MIHIN) | tälle | tuolle | sille | mille |
-| Adessive (L-MISSÄ) | tällä | tuolla | sillä | millä |
-| Ablative (L-MISTÄ) | tältä | tuolta | siltä | miltä |
+| Inessive (S-MISSÄ) | tässä | tuossa | siinä  | missä |
+| Elative (S-MISTÄ)  | tästä | tuosta | siitä  | mistä |
+| Allative (L-MIHIN) | tälle | tuolle | sille  | mille |
+| Adessive (L-MISSÄ) | tällä | tuolla | sillä  | millä |
+| Ablative (L-MISTÄ) | tältä | tuolta | siltä  | miltä |
 
 ### Plural Forms
 
-| Case | Plural |
-|------|--------|
+| Case       | Plural                  |
+| ---------- | ----------------------- |
 | Nominative | nämä / nuo / ne / mitkä |
 
 ## Usage Examples
@@ -66,10 +66,10 @@ bookToc: true
 
 ### täällä - tuolla - siellä System
 
-| Question | tää- | tuo- | sii- |
-|----------|------|------|------|
-| Mihin? (Where to?) | tänne | tuonne | sinne |
-| Missä? (Where?) | täällä | tuolla | siellä |
+| Question             | tää-   | tuo-   | sii-   |
+| -------------------- | ------ | ------ | ------ |
+| Mihin? (Where to?)   | tänne  | tuonne | sinne  |
+| Missä? (Where?)      | täällä | tuolla | siellä |
 | Mistä? (Where from?) | täältä | tuolta | sieltä |
 
 **Usage:**

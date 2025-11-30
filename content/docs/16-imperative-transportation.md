@@ -12,13 +12,13 @@ The imperative is used to give commands or instructions.
 
 ### Formation (sinä-person)
 
-| Verb Type | Infinitive | Stem (1st person) | Positive Imperative | Negative Imperative |
-|-----------|------------|-------------------|---------------------|---------------------|
-| Type 1 | lukea (read) | luen | Lue! | Älä lue! |
-| Type 2 | syödä (eat) | syön | Syö! | Älä syö! |
-| Type 3 | tulla (come) | tulen | Tule! | Älä tule! |
-| Type 4 | avata (open) | avaan | Avaa! | Älä avaa! |
-| Type 5 | valita (choose) | valitsen | Valitse! | Älä valitse! |
+| Verb Type | Infinitive      | Stem (1st person) | Positive Imperative | Negative Imperative |
+| --------- | --------------- | ----------------- | ------------------- | ------------------- |
+| Type 1    | lukea (read)    | luen              | Lue!                | Älä lue!            |
+| Type 2    | syödä (eat)     | syön              | Syö!                | Älä syö!            |
+| Type 3    | tulla (come)    | tulen             | Tule!               | Älä tule!           |
+| Type 4    | avata (open)    | avaan             | Avaa!               | Älä avaa!           |
+| Type 5    | valita (choose) | valitsen          | Valitse!            | Älä valitse!        |
 
 **Rule:** The imperative is formed from the first person singular stem (without the -n).
 
@@ -55,29 +55,29 @@ The imperative is used to give commands or instructions.
 
 ### With -lla/-llä (by/with)
 
-| Finnish | English |
-|---------|---------|
-| autolla | by car |
-| polkupyörällä | by bicycle |
-| junalla | by train |
+| Finnish       | English     |
+| ------------- | ----------- |
+| autolla       | by car      |
+| polkupyörällä | by bicycle  |
+| junalla       | by train    |
 | lentokoneella | by airplane |
-| taksilla | by taxi |
-| bussilla | by bus |
-| metrolla | by metro |
-| laivalla | by ship |
+| taksilla      | by taxi     |
+| bussilla      | by bus      |
+| metrolla      | by metro    |
+| laivalla      | by ship     |
 
 **Note:** The adessive case (-lla/-llä) is used for means of transportation.
 
 ### Verbs of Movement
 
-| Verb | English |
-|------|---------|
-| mennä | to go |
-| ajaa | to drive |
+| Verb      | English   |
+| --------- | --------- |
+| mennä     | to go     |
+| ajaa      | to drive  |
 | matkustaa | to travel |
-| lähteä | to leave |
-| saapua | to arrive |
-| tulla | to come |
+| lähteä    | to leave  |
+| saapua    | to arrive |
+| tulla     | to come   |
 
 ### Walking
 

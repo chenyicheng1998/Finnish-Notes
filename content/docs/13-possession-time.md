@@ -12,37 +12,37 @@ Finnish expresses possession using the structure **-lla/-llä + on** (literally 
 
 ### Positive Form
 
-| Person | Structure | English |
-|--------|-----------|---------|
-| minulla on | I have | I have |
-| sinulla on | you have | you have |
-| hänellä on | he/she has | he/she has |
-| meillä on | we have | we have |
-| teillä on | you have | you (plural) have |
-| heillä on | they have | they have |
+| Person     | Structure  | English           |
+| ---------- | ---------- | ----------------- |
+| minulla on | I have     | I have            |
+| sinulla on | you have   | you have          |
+| hänellä on | he/she has | he/she has        |
+| meillä on  | we have    | we have           |
+| teillä on  | you have   | you (plural) have |
+| heillä on  | they have  | they have         |
 
 ### Negative Form (-lla/-llä + ei ole + Partitive)
 
-| Person | Structure | English |
-|--------|-----------|---------|
-| minulla ei ole | I don't have | I don't have |
-| sinulla ei ole | you don't have | you don't have |
-| hänellä ei ole | he/she doesn't have | he/she doesn't have |
-| meillä ei ole | we don't have | we don't have |
-| teillä ei ole | you don't have | you (plural) don't have |
-| heillä ei ole | they don't have | they don't have |
+| Person         | Structure           | English                 |
+| -------------- | ------------------- | ----------------------- |
+| minulla ei ole | I don't have        | I don't have            |
+| sinulla ei ole | you don't have      | you don't have          |
+| hänellä ei ole | he/she doesn't have | he/she doesn't have     |
+| meillä ei ole  | we don't have       | we don't have           |
+| teillä ei ole  | you don't have      | you (plural) don't have |
+| heillä ei ole  | they don't have     | they don't have         |
 
 **Note:** In negative sentences, the object changes to partitive case.
 
 ### Common Expressions
 
-| Finnish | English |
-|---------|---------|
-| Minulla on nälkä | I'm hungry |
-| Minulla on jano | I'm thirsty |
+| Finnish          | English        |
+| ---------------- | -------------- |
+| Minulla on nälkä | I'm hungry     |
+| Minulla on jano  | I'm thirsty    |
 | Minulla on kiire | I'm in a hurry |
-| Minulla on kuuma | I'm hot |
-| Minulla on kylmä | I'm cold |
+| Minulla on kuuma | I'm hot        |
+| Minulla on kylmä | I'm cold       |
 
 ### Examples
 - Minulla on auto. (I have a car.)
@@ -65,38 +65,38 @@ Finnish expresses possession using the structure **-lla/-llä + on** (literally 
 
 ### Quarter Hours and Half Hours
 
-| Expression | Meaning | Example |
-|------------|---------|---------|
-| varttia yli | quarter past | Kello on varttia yli neljä (4:15) |
-| puoli | half past | Kello on puoli viisi (4:30) |
-| varttia vaille | quarter to | Kello on varttia vaille viisi (4:45) |
+| Expression     | Meaning      | Example                              |
+| -------------- | ------------ | ------------------------------------ |
+| varttia yli    | quarter past | Kello on varttia yli neljä (4:15)    |
+| puoli          | half past    | Kello on puoli viisi (4:30)          |
+| varttia vaille | quarter to   | Kello on varttia vaille viisi (4:45) |
 
 **Important:** "Puoli viisi" means 4:30, not 5:30! It's "half towards five."
 
 ### Key Words
 
-| Finnish | English |
-|---------|---------|
-| yli | past/over |
-| vaille | to/before |
-| puoli | half |
-| varttia | quarter |
+| Finnish | English   |
+| ------- | --------- |
+| yli     | past/over |
+| vaille  | to/before |
+| puoli   | half      |
+| varttia | quarter   |
 
 ### Time Expressions (At what time?)
 
-| Clock time | At that time |
-|------------|--------------|
-| kello yksi | yhdeltä |
-| kello kaksi | kahdelta |
-| kello kolme | kolmelta |
-| kello neljä | neljältä |
-| kello viisi | viideltä |
-| kello kuusi | kuudelta |
-| kello seitsemän | seitsemältä |
-| kello kahdeksan | kahdeksalta |
-| kello yhdeksän | yhdeksältä |
-| kello kymmenen | kymmeneltä |
-| kello yksitoista | yhdeltätoista |
+| Clock time        | At that time   |
+| ----------------- | -------------- |
+| kello yksi        | yhdeltä        |
+| kello kaksi       | kahdelta       |
+| kello kolme       | kolmelta       |
+| kello neljä       | neljältä       |
+| kello viisi       | viideltä       |
+| kello kuusi       | kuudelta       |
+| kello seitsemän   | seitsemältä    |
+| kello kahdeksan   | kahdeksalta    |
+| kello yhdeksän    | yhdeksältä     |
+| kello kymmenen    | kymmeneltä     |
+| kello yksitoista  | yhdeltätoista  |
 | kello kaksitoista | kahdeltatoista |
 
 ### Examples

@@ -12,13 +12,13 @@ bookToc: true
 
 ### 构成（sinä人称）
 
-| 动词类型 | 原形 | 词干（第一人称） | 肯定祈使句 | 否定祈使句 |
-|-----------|------------|-------------------|---------------------|---------------------|
-| 类型1 | lukea（读） | luen | Lue! | Älä lue! |
-| 类型2 | syödä（吃） | syön | Syö! | Älä syö! |
-| 类型3 | tulla（来） | tulen | Tule! | Älä tule! |
-| 类型4 | avata（打开） | avaan | Avaa! | Älä avaa! |
-| 类型5 | valita（选择） | valitsen | Valitse! | Älä valitse! |
+| 动词类型 | 原形           | 词干（第一人称） | 肯定祈使句 | 否定祈使句   |
+| -------- | -------------- | ---------------- | ---------- | ------------ |
+| 类型1    | lukea（读）    | luen             | Lue!       | Älä lue!     |
+| 类型2    | syödä（吃）    | syön             | Syö!       | Älä syö!     |
+| 类型3    | tulla（来）    | tulen            | Tule!      | Älä tule!    |
+| 类型4    | avata（打开）  | avaan            | Avaa!      | Älä avaa!    |
+| 类型5    | valita（选择） | valitsen         | Valitse!   | Älä valitse! |
 
 **规则：**祈使句由第一人称单数词干（去掉-n）构成。
 
@@ -55,29 +55,29 @@ bookToc: true
 
 ### 用 -lla/-llä 表示（乘坐）
 
-| 芬兰语 | 中文 |
-|---------|---------|
-| autolla | 开车 |
+| 芬兰语        | 中文     |
+| ------------- | -------- |
+| autolla       | 开车     |
 | polkupyörällä | 骑自行车 |
-| junalla | 坐火车 |
-| lentokoneella | 坐飞机 |
-| taksilla | 打车 |
-| bussilla | 坐公交 |
-| metrolla | 坐地铁 |
-| laivalla | 坐船 |
+| junalla       | 坐火车   |
+| lentokoneella | 坐飞机   |
+| taksilla      | 打车     |
+| bussilla      | 坐公交   |
+| metrolla      | 坐地铁   |
+| laivalla      | 坐船     |
 
 **注意：**所格（-lla/-llä）用于表示交通工具。
 
 ### 移动动词
 
-| 动词 | 中文 |
-|------|---------|
-| mennä | 去 |
-| ajaa | 驾驶 |
+| 动词      | 中文 |
+| --------- | ---- |
+| mennä     | 去   |
+| ajaa      | 驾驶 |
 | matkustaa | 旅行 |
-| lähteä | 离开 |
-| saapua | 到达 |
-| tulla | 来 |
+| lähteä    | 离开 |
+| saapua    | 到达 |
+| tulla     | 来   |
 
 ### 步行
 

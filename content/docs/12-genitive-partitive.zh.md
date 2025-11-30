@@ -18,14 +18,14 @@ bookToc: true
 
 ### 人称代词的属格形式
 
-| 主格 | 属格 | 中文 |
-|------------|----------|---------|
-| minä | minun | 我的 |
-| sinä | sinun | 你的 |
-| hän | hänen | 他/她的 |
-| me | meidän | 我们的 |
-| te | teidän | 你们的 |
-| he | heidän | 他们的 |
+| 主格 | 属格   | 中文    |
+| ---- | ------ | ------- |
+| minä | minun  | 我的    |
+| sinä | sinun  | 你的    |
+| hän  | hänen  | 他/她的 |
+| me   | meidän | 我们的  |
+| te   | teidän | 你们的  |
+| he   | heidän | 他们的  |
 
 ### 例句
 - Minun kirja (我的书)
@@ -69,14 +69,14 @@ bookToc: true
 
 某些动词的宾语总是用部分格：
 
-| 动词 | 中文 |
-|------|---------|
-| auttaa | 帮助 |
-| etsiä | 寻找 |
-| katsoa | 看 |
-| puhua | 说 |
-| rakastaa | 爱 |
-| soittaa | 演奏 |
+| 动词     | 中文      |
+| -------- | --------- |
+| auttaa   | 帮助      |
+| etsiä    | 寻找      |
+| katsoa   | 看        |
+| puhua    | 说        |
+| rakastaa | 爱        |
+| soittaa  | 演奏      |
 | ymmärtää | 明白/懂得 |
 
 例句：

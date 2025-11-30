@@ -8,32 +8,32 @@ bookToc: true
 
 ## 基本形式
 
-| 单数 | 中文 | 复数 | 中文 |
-|----------|---------|--------|---------|
-| tämä | 这 | nämä | 这些 |
-| tuo | 那 | nuo | 那些 |
-| se | 它（前文提过的） | ne | 它们（前文提过的） |
+| 单数 | 中文             | 复数 | 中文               |
+| ---- | ---------------- | ---- | ------------------ |
+| tämä | 这               | nämä | 这些               |
+| tuo  | 那               | nuo  | 那些               |
+| se   | 它（前文提过的） | ne   | 它们（前文提过的） |
 
 ## 格变化
 
 ### 单数形式
 
-| 格 | tämä | tuo | se | mikä |
-|------|------|-----|----|----|
-| 主格 | tämä | tuo | se | mikä |
-| 部分格 | tätä | tuota | sitä | mitä |
-| 属格 | tämän | tuon | sen | minkä |
+| 格             | tämä  | tuo    | se     | mikä  |
+| -------------- | ----- | ------ | ------ | ----- |
+| 主格           | tämä  | tuo    | se     | mikä  |
+| 部分格         | tätä  | tuota  | sitä   | mitä  |
+| 属格           | tämän | tuon   | sen    | minkä |
 | 入格 (S-MIHIN) | tähän | tuohon | siihen | mihin |
-| 内格 (S-MISSÄ) | tässä | tuossa | siinä | missä |
-| 出格 (S-MISTÄ) | tästä | tuosta | siitä | mistä |
-| 向格 (L-MIHIN) | tälle | tuolle | sille | mille |
-| 所格 (L-MISSÄ) | tällä | tuolla | sillä | millä |
-| 离格 (L-MISTÄ) | tältä | tuolta | siltä | miltä |
+| 内格 (S-MISSÄ) | tässä | tuossa | siinä  | missä |
+| 出格 (S-MISTÄ) | tästä | tuosta | siitä  | mistä |
+| 向格 (L-MIHIN) | tälle | tuolle | sille  | mille |
+| 所格 (L-MISSÄ) | tällä | tuolla | sillä  | millä |
+| 离格 (L-MISTÄ) | tältä | tuolta | siltä  | miltä |
 
 ### 复数形式
 
-| 格 | 复数 |
-|------|--------|
+| 格   | 复数                    |
+| ---- | ----------------------- |
 | 主格 | nämä / nuo / ne / mitkä |
 
 ## 用法示例
@@ -66,10 +66,10 @@ bookToc: true
 
 ### täällä - tuolla - siellä 系统
 
-| 疑问词 | tää- | tuo- | sii- |
-|----------|------|------|------|
-| Mihin?（去哪里？） | tänne | tuonne | sinne |
-| Missä?（在哪里？） | täällä | tuolla | siellä |
+| 疑问词               | tää-   | tuo-   | sii-   |
+| -------------------- | ------ | ------ | ------ |
+| Mihin?（去哪里？）   | tänne  | tuonne | sinne  |
+| Missä?（在哪里？）   | täällä | tuolla | siellä |
 | Mistä?（从哪里来？） | täältä | tuolta | sieltä |
 
 **用法：**
