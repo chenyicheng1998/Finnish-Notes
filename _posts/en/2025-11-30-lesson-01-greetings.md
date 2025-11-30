@@ -1,12 +1,10 @@
 ---
-layout: default
-title: Lesson 01 - Greetings
-parent: Basic Courses
-nav_order: 1
+title: "Lesson 01 - Greetings and Introductions"
+date: 2025-11-30 10:00:00 +0200
+categories: [Basic Courses, Lessons]
+tags: [greetings, introductions, vocabulary]
 lang: en
 ---
-
-{% include language-switcher.html %}
 
 # Moi! Basic Greetings 👋
 

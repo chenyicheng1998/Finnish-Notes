@@ -1,19 +1,27 @@
 ---
-layout: default
-title: Home
-permalink: /
-nav_exclude: true
+layout: home
 ---
 
-<script>
-// Auto-redirect to preferred language or English by default
-var preferredLang = localStorage.getItem('preferredLanguage') || 'en';
-window.location.href = '/' + preferredLang + '/';
-</script>
+# Welcome to Finnish Learning Notes! 🇫🇮
 
-# Finnish Learning Notes 🇫🇮 / 芬兰语学习笔记
+欢迎来到芬兰语学习笔记！
 
-Please wait while we redirect you to your preferred language...
+This site contains Finnish language learning materials in both **English** and **Chinese (中文)**.
 
-[English Version](/Finnish-Notes/en/) | [中文版本](/Finnish-Notes/zh/)
+## 📚 Content / 内容
+
+All lessons are organized by categories:
+- **Basic Courses** - Fundamental Finnish lessons
+- **基础课程** - 芬兰语基础课程
+
+## 🌐 Language Selection / 语言选择
+
+- **English posts**: Browse all posts or filter by English tags
+- **中文内容**: 查看带有"中文"标签的文章
+
+Use the **Categories** and **Tags** in the sidebar to filter content by language.
+
+---
+
+Start learning by clicking on any lesson in the post list below!
 

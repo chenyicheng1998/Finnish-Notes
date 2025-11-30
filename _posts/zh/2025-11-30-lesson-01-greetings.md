@@ -1,13 +1,10 @@
 ---
-layout: default
-title: 第一课 - 问候语
-parent: 基础课程
-grand_parent: 中文版
-nav_order: 1
+title: "第一课 - 问候和自我介绍"
+date: 2025-11-30 10:00:00 +0200
+categories: [基础课程, 课程]
+tags: [问候, 自我介绍, 词汇, 中文]
 lang: zh
 ---
-
-{% include language-switcher.html %}
 
 # Moi! 基础问候语 👋
 

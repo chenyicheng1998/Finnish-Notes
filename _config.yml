@@ -1,28 +1,67 @@
-title: Finnish Learning Notes 🇫🇮
+title: Finnish Learning Notes
+tagline: Learning Finnish from scratch 🇫🇮
 description: My journey learning Finnish language, grammar, and vocabulary.
 
-# For GitHub Pages - use remote_theme instead of theme
-remote_theme: just-the-docs/just-the-docs
-
-# Base URL for GitHub Pages
+# GitHub Pages configuration
 baseurl: "/Finnish-Notes"
 url: "https://chenyicheng1998.github.io"
 
-# Just the Docs specific settings
-heading_anchors: true
-search_enabled: true
+# Theme
+theme: jekyll-theme-chirpy
 
-nav_external_links:
-  - title: Finnish External Resources
-    url: https://example.com
+# Language and timezone
+lang: en
+timezone: Europe/Helsinki
 
-# Required for GitHub Pages to process remote_theme
+# Social
+github:
+  username: chenyicheng1998
+
+social:
+  name: Chen Yicheng
+  email: ""
+  links:
+    - https://github.com/chenyicheng1998
+
+# Site settings
+theme_mode: light
+
+# Pagination
+paginate: 10
+
+# Required plugins
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-sitemap
 
-# Custom includes
+# Archives
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
+# Defaults
 defaults:
   - scope:
       path: ""
+      type: posts
     values:
-      lang: "en"
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: "_posts/en"
+    values:
+      lang: en
+  - scope:
+      path: "_posts/zh"
+    values:
+      lang: zh
