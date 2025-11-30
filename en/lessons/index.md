@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Basic Courses
-permalink: /lessons/
+permalink: /en/lessons/
 nav_order: 2
 has_children: true
+lang: en
 ---
+
+{% include language-switcher.html %}
 
 # Basic Courses
 

@@ -4,6 +4,10 @@ description: My journey learning Finnish language, grammar, and vocabulary.
 # For GitHub Pages - use remote_theme instead of theme
 remote_theme: just-the-docs/just-the-docs
 
+# Base URL for GitHub Pages
+baseurl: "/Finnish-Notes"
+url: "https://chenyicheng1998.github.io"
+
 # Just the Docs specific settings
 heading_anchors: true
 search_enabled: true
@@ -15,3 +19,10 @@ nav_external_links:
 # Required for GitHub Pages to process remote_theme
 plugins:
   - jekyll-remote-theme
+
+# Custom includes
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"

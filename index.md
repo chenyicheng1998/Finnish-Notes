@@ -1,32 +1,19 @@
 ---
 layout: default
-title: Finnish Learning Notes
+title: Home
 permalink: /
-nav_order: 1
+nav_exclude: true
 ---
 
-# Welcome to Finnish Learning Notes 🇫🇮
+<script>
+// Auto-redirect to preferred language or English by default
+var preferredLang = localStorage.getItem('preferredLanguage') || 'en';
+window.location.href = '/' + preferredLang + '/';
+</script>
 
-This is a personal knowledge base for learning the Finnish language, documenting my grammar, vocabulary, and cultural knowledge throughout the learning journey.
+# Finnish Learning Notes 🇫🇮 / 芬兰语学习笔记
 
-## 📚 Learning Content
+Please wait while we redirect you to your preferred language...
 
-This note repository covers the following main topics:
-
-- **[Basic Courses](/Finnish-Notes/lessons/)** - Learn Finnish from scratch
-- **Grammar System** - Understand the unique structure of Finnish
-- **Daily Expressions** - Practical everyday vocabulary
-- **Cultural Background** - Finnish culture and society
-
-## 🎯 Learning Goals
-
-Through systematic note organization, gradually build a comprehensive Finnish knowledge system, from basic pronunciation to daily conversation.
-
-## 👉 Quick Start
-
-Navigate to **Basic Courses** in the left sidebar to start learning!
-
----
-
-## 📝 All Lessons
+[English Version](/Finnish-Notes/en/) | [中文版本](/Finnish-Notes/zh/)
 

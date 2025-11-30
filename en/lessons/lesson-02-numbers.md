@@ -3,7 +3,10 @@ layout: default
 title: Lesson 02 - Numbers
 parent: Basic Courses
 nav_order: 2
+lang: en
 ---
+
+{% include language-switcher.html %}
 
 # Numbers and Time 🔢⏰
 

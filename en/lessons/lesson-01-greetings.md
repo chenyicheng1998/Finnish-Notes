@@ -3,7 +3,10 @@ layout: default
 title: Lesson 01 - Greetings
 parent: Basic Courses
 nav_order: 1
+lang: en
 ---
+
+{% include language-switcher.html %}
 
 # Moi! Basic Greetings 👋
 
