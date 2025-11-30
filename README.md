@@ -1,4 +1,4 @@
-# Finnish Learning Notes
+# Finnish Notes
 
 A bilingual (English/Chinese) website for learning Finnish, built with Hugo and the Book theme.
 

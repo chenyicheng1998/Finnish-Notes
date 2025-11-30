@@ -1,6 +1,6 @@
 baseURL = "https://chenyicheng1998.github.io/Finnish-Notes/"
 languageCode = "en"
-title = "Finnish Learning Notes"
+title = "Finnish Notes"
 theme = "hugo-book"
 
 # Book theme specific settings
@@ -21,14 +21,14 @@ defaultContentLanguageInSubdir = false
   [languages.en]
     languageName = "English"
     weight = 1
-    title = "Finnish Learning Notes"
+    title = "Finnish Notes"
     [languages.en.params]
       description = "Learning Finnish from scratch"
 
   [languages.zh]
     languageName = "中文"
     weight = 2
-    title = "芬兰语学习笔记"
+    title = "芬兰语笔记"
     [languages.zh.params]
       description = "从零开始学习芬兰语"
 

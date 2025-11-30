@@ -1,10 +1,10 @@
 ---
-title: "Finnish Learning Notes"
+title: "Finnish Notes"
 type: docs
 bookToc: false
 ---
 
-# Welcome to Finnish Learning Notes! 🇫🇮
+# Welcome to Finnish Notes! 🇫🇮
 
 This site contains Finnish language learning materials in both **English** and **中文**.
 
