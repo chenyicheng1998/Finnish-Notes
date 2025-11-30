@@ -1,31 +1,31 @@
 ---
 layout: home
-title: 芬兰语学习笔记
+title: Finnish Learning Notes
 permalink: /
 ---
 
-# 欢迎来到芬兰语学习笔记 🇫🇮
+# Welcome to Finnish Learning Notes 🇫🇮
 
-这是一个关于芬兰语学习的个人笔记库，记录我在学习芬兰语过程中的语法、词汇和文化知识。
+This is a personal knowledge base for learning the Finnish language, documenting my grammar, vocabulary, and cultural knowledge throughout the learning journey.
 
-## 📚 学习内容
+## 📚 Learning Content
 
-本笔记库涵盖以下主要内容：
+This note repository covers the following main topics:
 
-- **基础课程** - 从零开始学习芬兰语
-- **语法体系** - 芬兰语独特的语法结构
-- **日常用语** - 实用的日常表达
-- **文化背景** - 芬兰文化和社会
+- **Basic Courses** - Learn Finnish from scratch
+- **Grammar System** - Understand the unique structure of Finnish
+- **Daily Expressions** - Practical everyday vocabulary
+- **Cultural Background** - Finnish culture and society
 
-## 🎯 学习目标
+## 🎯 Learning Goals
 
-通过系统的笔记整理，逐步建立芬兰语的知识体系，从基础发音到日常对话。
+Through systematic note organization, gradually build a comprehensive Finnish knowledge system, from basic pronunciation to daily conversation.
 
-## 📖 最近更新
+## 📖 Recent Updates
 
-查看下方的文章列表，了解最新的学习笔记。
+Check the article list below to see the latest learning notes.
 
 ---
 
-## 📝 全部笔记
+## 📝 All Notes
 

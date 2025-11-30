@@ -1,140 +1,139 @@
 ---
-layout: post
-title: 第一课：基础问候和自我介绍
-permalink: /lesson-01-greetings/
-date: 2025-11-30
-categories: [基础课程]
-tags: [问候, 自我介绍, 日常用语]
+layout: default
+title: Lesson 01 - Greetings and Introductions
+permalink: /lessons/lesson-01-greetings/
+parent: Basic Courses
+nav_order: 1
 ---
 
-# Moi! 基础问候语 👋
+# Moi! Basic Greetings 👋
 
-## 介绍
+## Introduction
 
-第一课将学习最基本和最常用的芬兰语问候语，这些是你每天都可能用到的表达。
+Lesson 1 covers the most basic and commonly used Finnish greetings, which you'll likely use every day.
 
-## 核心问候语
+## Core Greetings
 
-### 非正式问候
+### Informal Greetings
 
-| 芬兰语 | 中文意思 | 发音提示 |
-|--------|--------|--------|
-| **Moi** | 你好/再见 | [moi] - 像英文 "boy" |
-| **Moi moi** | 拜拜（非正式） | 重复两遍 "moi" |
-| **Hei** | 嘿/你好 | [hei] - 像英文 "hey" |
-| **Heipä** | 嘿（更随意） | [hei-pä] |
+| Finnish | English Meaning | Pronunciation Tip |
+|---------|-----------------|-------------------|
+| **Moi** | Hello/Goodbye | [moi] - like English "boy" |
+| **Moi moi** | Bye bye (informal) | Repeat "moi" twice |
+| **Hei** | Hey/Hello | [hei] - like English "hey" |
+| **Heipä** | Hey (more casual) | [hei-pä] |
 
-### 正式问候
+### Formal Greetings
 
-| 芬兰语 | 中文意思 | 用法 |
-|--------|--------|------|
-| **Hyvää päivää** | 你好（字面：美好的一天） | 工作场合、正式场景 |
-| **Hyvää aamua** | 早上好 | 上午使用 |
-| **Hyvää iltaa** | 晚上好 | 下午/晚上使用 |
-| **Hyvää yötä** | 晚安 | 睡前 |
+| Finnish | English Meaning | Usage |
+|---------|-----------------|-------|
+| **Hyvää päivää** | Hello (literally: good day) | Work settings, formal contexts |
+| **Hyvää aamua** | Good morning | Morning use |
+| **Hyvää iltaa** | Good evening | Afternoon/evening use |
+| **Hyvää yötä** | Good night | Before sleep |
 
-## 自我介绍基本句式
+## Basic Introduction Phrases
 
-### 简单介绍
+### Simple Introductions
 
 ```
-Minä olen [名字].
-我是[名字]。
+Minä olen [name].
+I am [name].
 
-Nimi on [名字].
-我的名字是[名字]。
+Nimi on [name].
+My name is [name].
 
-Olen [国籍/职业].
-我是[国籍/职业]。
+Olen [nationality/profession].
+I am [nationality/profession].
 ```
 
-### 完整对话示例
+### Full Dialogue Example
 
 ```
 A: Hei! Kuka sinä olet?
-   嘿！你是谁？
+   Hey! Who are you?
 
 B: Minä olen Maria. Nimi on Maria.
-   我是 Maria。我的名字是 Maria。
+   I am Maria. My name is Maria.
 
 A: Hauska tutustua!
-   很高兴认识你！
+   Nice to meet you!
 
 B: Sinäkin! Mistä sinä olet?
-   你也是！你来自哪里？
+   You too! Where are you from?
 
 A: Olen Kiinasta.
-   我来自中国。
+   I am from China.
 ```
 
-## 常用短语
+## Common Phrases
 
-| 芬兰语 | 中文意思 | 注记 |
-|--------|--------|------|
-| **Hauska tutustua** | 很高兴认识你 | 第一次见面时说 |
-| **Kuinka voit?** | 你好吗？ | 正式 |
-| **Entä sinä?** | 你呢？ | 回应时使用 |
-| **Kiitos, hyvin.** | 谢谢，很好。 | 标准回答 |
-| **Enkä huonosti.** | 我也不错。 | 另一种回答方式 |
+| Finnish | English Meaning | Note |
+|---------|-----------------|------|
+| **Hauska tutustua** | Nice to meet you | Say when meeting for the first time |
+| **Kuinka voit?** | How are you? | Formal |
+| **Entä sinä?** | And you? | Use when responding |
+| **Kiitos, hyvin.** | Thank you, I'm well. | Standard response |
+| **Enkä huonosti.** | I'm doing well too. | Alternative response |
 
-## 国籍表达
+## Nationality Expressions
 
-| 国籍 | 芬兰语 | 形容词 |
-|------|--------|--------|
-| 中国 | Kiina | kiinalainen |
-| 美国 | USA | amerikkalainen |
-| 日本 | Japani | japanilainen |
-| 英国 | Britannia | brittiläinen |
-| 芬兰 | Suomi | suomalainen |
+| Country | Finnish | Nationality Adjective |
+|---------|---------|----------------------|
+| China | Kiina | kiinalainen |
+| United States | USA | amerikkalainen |
+| Japan | Japani | japanilainen |
+| United Kingdom | Britannia | brittiläinen |
+| Finland | Suomi | suomalainen |
 
 ```
 Olen kiinalainen.
-我是中国人。
+I am Chinese.
 
 Hän on japanilainen.
-他/她是日本人。
+He/She is Japanese.
 ```
 
-## 练习
+## Exercises
 
-### 练习 1：完成对话
+### Exercise 1: Complete the Dialogue
 
 ```
 A: Moi! Kuinka voit?
 B: ______, ______. Entä sinä?
 A: ______ hyvin, kiitos.
 
-答案：
+Answer:
 B: Kiitos, hyvin. Entä sinä?
 A: Olen hyvin, kiitos.
 ```
 
-### 练习 2：自我介绍
+### Exercise 2: Self-Introduction
 
-用芬兰语写下你的自我介绍：
+Write your self-introduction in Finnish:
 
-- 你的名字
-- 你来自哪个国家
-- 一个关于你的事实
+- Your name
+- Your country
+- One fact about yourself
 
-## 发音技巧
+## Pronunciation Tips
 
-- **Ä** 和 **Ö** - 这些是芬兰语特有的字母，需要特别注意发音
-- **Aa** - 发音像英文 "a" 在 "car" 中
-- **Ii** - 发音像英文 "ee" 在 "see" 中
-- **Uu** - 发音像英文 "oo" 在 "moon" 中
+- **Ä** and **Ö** - These are unique Finnish letters requiring special attention to pronunciation
+- **Aa** - Sounds like English "a" in "car"
+- **Ii** - Sounds like English "ee" in "see"
+- **Uu** - Sounds like English "oo" in "moon"
 
-## 文化提示 🇫🇮
+## Cultural Tip 🇫🇮
 
-在芬兰，人们通常比较直接和诚实。握手在商业场合很常见，但在朋友之间可能不太常见。眼神接触被认为是有礼貌和有诚意的表现。
+In Finland, people are typically direct and honest. Handshakes are common in business settings but less common among friends. Eye contact is considered polite and shows sincerity.
 
-## 下节课预告
+## Next Lesson Preview
 
-下一课我们将学习**数字和时间表达**，这对日常交流非常重要。
+In the next lesson, we'll learn **numbers and time expressions**, which are essential for daily communication.
 
 ---
 
-**学习建议：**
-- 每天大声重复这些短语 5-10 次
-- 尝试用不同的名字和国籍进行对话练习
-- 如果可能，与芬兰人进行简短的对话交换
+**Learning Tips:**
+- Repeat these phrases aloud 5-10 times daily
+- Practice dialogues using different names and nationalities
+- If possible, exchange short conversations with Finnish speakers

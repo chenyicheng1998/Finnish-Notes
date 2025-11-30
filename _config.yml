@@ -1,3 +1,11 @@
-title: 芬兰语学习笔记 🇫🇮
-description: 我的芬兰语学习过程和语法词汇整理。
-theme: minima # 使用 Jekyll 默认的简洁主题
+title: Finnish Learning Notes 🇫🇮
+description: My journey learning Finnish language, grammar, and vocabulary.
+remote_theme: "just-the-docs/just-the-docs"
+theme: "just-the-docs"
+
+heading_anchors: true
+search_enabled: true
+
+nav_external_links:
+  - title: Finnish External Resources
+    url: https://example.com

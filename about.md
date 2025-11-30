@@ -1,101 +1,102 @@
 ---
-layout: page
-title: 关于本笔记
+layout: default
+title: About
 permalink: /about/
+nav_order: 5
 ---
 
-# 关于本笔记 📖
+# About These Notes 📖
 
-## 项目介绍
+## Project Introduction
 
-欢迎来到**芬兰语学习笔记**项目！这是一个为学习芬兰语的爱好者精心编写的学习资源库。
+Welcome to the **Finnish Learning Notes** project! This is a carefully curated learning resource library for those interested in learning Finnish.
 
-## 项目目标
+## Project Goals
 
-- 📚 **系统地教授芬兰语** - 从初级到中级的循序渐进
-- 🎯 **注重实用性** - 强调日常对话和实际应用
-- 📝 **详细的笔记** - 包含语法、词汇、文化背景
-- 🤝 **社区共享** - 欢迎大家的反馈和建议
+- 📚 **Teach Finnish Systematically** - Progressive learning from beginner to intermediate level
+- 🎯 **Focus on Practicality** - Emphasize daily conversation and real-world application
+- 📝 **Detailed Notes** - Include grammar, vocabulary, and cultural background
+- 🤝 **Community Sharing** - Welcome feedback and suggestions from everyone
 
-## 学习路线
+## Learning Path
 
-本笔记库按照以下顺序组织：
+This note repository is organized as follows:
 
-1. **基础课程** (Lesson 1-10)
-   - 问候和自我介绍
-   - 数字和时间
-   - 基本动词和日常用语
-   - 问路和购物
+1. **Basic Courses** (Lesson 1-10)
+   - Greetings and self-introduction
+   - Numbers and time
+   - Basic verbs and daily expressions
+   - Directions and shopping
 
-2. **语法深入** (Advanced)
-   - 名词的格系统
-   - 动词的时态变化
-   - 复杂句式
+2. **Advanced Grammar**
+   - Noun case system
+   - Verb tense changes
+   - Complex sentence structures
 
-3. **文化和应用**
-   - 芬兰文化知识
-   - 实用场景对话
-   - 芬兰文学和媒体
+3. **Culture and Application**
+   - Finnish cultural knowledge
+   - Practical scenario dialogues
+   - Finnish literature and media
 
-## 特色
+## Features
 
-✨ **交互式学习**
-- 每课都包含练习题
-- 真实的对话示例
-- 发音提示
+✨ **Interactive Learning**
+- Exercises in every lesson
+- Authentic dialogue examples
+- Pronunciation tips
 
-📊 **结构化内容**
-- 按难度分类
-- 清晰的表格总结
-- 对比学习
+📊 **Structured Content**
+- Organized by difficulty level
+- Clear summary tables
+- Comparative learning
 
-🌍 **文化融合**
-- 芬兰文化背景介绍
-- 社会习俗和礼仪
-- 文化对比分析
+🌍 **Cultural Integration**
+- Finnish cultural background introduction
+- Social customs and etiquette
+- Cultural comparison analysis
 
-## 关于芬兰语
+## About the Finnish Language
 
-芬兰语是一门有趣且独特的语言，属于乌拉尔语族。它以以下特点著称：
+Finnish is a fascinating and unique language belonging to the Uralic language family. It is characterized by:
 
-- **复杂的格系统** - 有 15 个语法格
-- **丰富的词缀** - 允许创建复杂的单词
-- **音乐般的发音** - 带有独特的元音和辅音组合
-- **与匈牙利语和爱沙尼亚语的关系** - 属于同一语言家族
+- **Complex Case System** - 15 grammatical cases
+- **Rich Affixation** - Allows creation of complex words
+- **Musical Pronunciation** - With unique vowel and consonant combinations
+- **Relationship to Hungarian and Estonian** - Belongs to the same language family
 
-## 如何使用本笔记
+## How to Use These Notes
 
-1. **按顺序学习** - 建议从第一课开始
-2. **实践练习** - 完成每课的练习题
-3. **复习回顾** - 定期复习之前学过的内容
-4. **参考查询** - 随时回顾语法表和词汇
+1. **Learn Sequentially** - Recommended to start from Lesson 1
+2. **Practice Exercises** - Complete the exercises in each lesson
+3. **Regular Review** - Periodically review previously learned content
+4. **Reference Lookup** - Always check grammar tables and vocabulary
 
-## 学习建议
+## Learning Tips
 
-- **每天投入 30-45 分钟** - 定期学习比突击学习更有效
-- **大声朗读** - 特别是发音和对话部分
-- **记笔记** - 用自己的话总结关键概念
-- **实践应用** - 尝试用学到的表达进行简单对话
-- **寻找学习伙伴** - 与他人交流可以加深理解
+- **Dedicate 30-45 minutes daily** - Regular learning is more effective than cramming
+- **Read aloud** - Especially pronunciation and dialogue sections
+- **Take notes** - Summarize key concepts in your own words
+- **Practical application** - Try to use learned expressions in simple conversations
+- **Find a study partner** - Interaction with others deepens understanding
 
-## 反馈和建议
+## Feedback and Suggestions
 
-如果你有任何建议、发现错误或想贡献内容，欢迎：
+If you have any suggestions, found errors, or want to contribute content, you are welcome to:
 
-- 提交 GitHub Issue
-- 创建 Pull Request
-- 通过电子邮件联系我们
+- Submit GitHub Issues
+- Create Pull Requests
+- Contact us via email
 
-## 许可证
+## License
 
-本项目遵循 MIT 许可证。你可以自由地使用和分享这些资源。
+This project follows the MIT License. You are free to use and share these resources.
 
-## 致谢
+## Acknowledgments
 
-感谢所有对芬兰语学习充满热情的学习者，以及那些提供反馈和建议的贡献者。
+Thanks to all learners passionate about Finnish language learning, and to those who provide feedback and suggestions.
 
 ---
 
-**最后更新：** 2025 年 11 月
+**Last Updated:** November 2025
 
-**版本：** 1.0
+**Version:** 1.0
