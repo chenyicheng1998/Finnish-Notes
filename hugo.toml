@@ -17,6 +17,10 @@ theme = "hugo-book"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+# Enable search output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [languages]
   [languages.en]
     languageName = "English"
