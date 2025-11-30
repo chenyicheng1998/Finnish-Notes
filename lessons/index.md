@@ -12,10 +12,12 @@ Welcome to the Basic Courses section! These lessons form the foundation of Finni
 
 ## Course Overview
 
-### [Lesson 1: Greetings and Introductions](/Finnish-Notes/lessons/lesson-01-greetings/)
+The lessons are listed in the left sidebar navigation. Click on any lesson to start learning!
+
+### Lesson 1: Greetings and Introductions
 Learn the essential greetings and how to introduce yourself in Finnish.
 
-### [Lesson 2: Numbers and Time](/Finnish-Notes/lessons/lesson-02-numbers/)
+### Lesson 2: Numbers and Time
 Master Finnish numbers and how to tell time in various contexts.
 
 ### More lessons coming soon...

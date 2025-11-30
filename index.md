@@ -24,7 +24,7 @@ Through systematic note organization, gradually build a comprehensive Finnish kn
 
 ## 👉 Quick Start
 
-**[Start with Lesson 1: Greetings and Introductions](/Finnish-Notes/lessons/lesson-01-greetings/)**
+Navigate to **Basic Courses** in the left sidebar to start learning!
 
 ---
 

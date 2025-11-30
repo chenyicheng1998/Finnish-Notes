@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Lesson 01 - Greetings and Introductions
-permalink: /lessons/lesson-01-greetings/
+title: Lesson 01 - Greetings
 parent: Basic Courses
-grand_parent: Home
 nav_order: 1
 ---
 

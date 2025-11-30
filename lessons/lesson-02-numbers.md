@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Lesson 02 - Numbers and Time
-permalink: /lessons/lesson-02-numbers/
+title: Lesson 02 - Numbers
 parent: Basic Courses
-grand_parent: Home
 nav_order: 2
 ---
 
