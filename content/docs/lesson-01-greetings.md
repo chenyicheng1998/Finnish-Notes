@@ -1,9 +1,7 @@
 ---
 title: "Lesson 01 - Greetings and Introductions"
-date: 2025-11-30 10:00:00 +0200
-categories: [Basic Courses, Lessons]
-tags: [greetings, introductions, vocabulary]
-lang: en
+weight: 1
+bookToc: true
 ---
 
 # Moi! Basic Greetings 👋

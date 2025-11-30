@@ -1,9 +1,7 @@
 ---
 title: "Lesson 02 - Numbers and Time"
-date: 2025-11-30 11:00:00 +0200
-categories: [Basic Courses, Lessons]
-tags: [numbers, time, vocabulary]
-lang: en
+weight: 2
+bookToc: true
 ---
 
 # Numbers and Time 🔢⏰
@@ -27,7 +25,6 @@ Learning numbers and time is fundamental to Finnish language learning. This less
 | 8      | kahdeksan | KAH-dek-san   |
 | 9      | yhdeksän  | ÜH-dek-sän    |
 | 10     | kymmenen  | KÜM-meh-nen   |
-| 11-20  | ...       | ...           |
 
 ## Tens (20-100)
 

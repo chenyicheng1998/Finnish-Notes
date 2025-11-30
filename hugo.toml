@@ -1,0 +1,42 @@
+baseURL = "https://chenyicheng1998.github.io/Finnish-Notes/"
+languageCode = "en"
+title = "Finnish Learning Notes"
+theme = "hugo-book"
+
+# Book theme specific settings
+[params]
+  BookRepo = 'https://github.com/chenyicheng1998/Finnish-Notes'
+  BookEditPath = 'edit/main'
+  BookToC = true
+  BookComments = false
+  BookSearch = true
+  BookMenuBundle = '/menu'
+  BookSection = 'docs'
+
+# Multi-language configuration
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "Finnish Learning Notes"
+    [languages.en.params]
+      description = "Learning Finnish from scratch"
+
+  [languages.zh]
+    languageName = "中文"
+    weight = 2
+    title = "芬兰语学习笔记"
+    [languages.zh.params]
+      description = "从零开始学习芬兰语"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
