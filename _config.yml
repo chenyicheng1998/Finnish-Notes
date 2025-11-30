@@ -1,11 +1,17 @@
 title: Finnish Learning Notes 🇫🇮
 description: My journey learning Finnish language, grammar, and vocabulary.
-remote_theme: "just-the-docs/just-the-docs"
-theme: "just-the-docs"
 
+# For GitHub Pages - use remote_theme instead of theme
+remote_theme: just-the-docs/just-the-docs
+
+# Just the Docs specific settings
 heading_anchors: true
 search_enabled: true
 
 nav_external_links:
   - title: Finnish External Resources
     url: https://example.com
+
+# Required for GitHub Pages to process remote_theme
+plugins:
+  - jekyll-remote-theme

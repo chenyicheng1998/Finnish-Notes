@@ -14,43 +14,43 @@ Learning numbers and time is fundamental to Finnish language learning. This less
 
 ## Basic Numbers (0-20)
 
-| Number | Finnish | Pronunciation |
-|--------|---------|----------------|
-| 0 | nolla | NOL-la |
-| 1 | yksi | YÜK-si |
-| 2 | kaksi | KAKH-si |
-| 3 | kolme | KOL-meh |
-| 4 | neljä | NEL-yä |
-| 5 | viisi | VEE-si |
-| 6 | kuusi | KOO-si |
-| 7 | seitsemän | SAYT-seh-män |
-| 8 | kahdeksan | KAH-dek-san |
-| 9 | yhdeksän | ÜH-dek-sän |
-| 10 | kymmenen | KÜM-meh-nen |
-| 11 | yksitoista | ÜK-si-TOI-sta |
-| 12 | kaksitoista | KAKH-si-TOI-sta |
-| 13 | kolmetoista | KOL-meh-TOI-sta |
-| 14 | neljätoista | NEL-yä-TOI-sta |
-| 15 | viisitoista | VEE-si-TOI-sta |
-| 16 | kuusitoista | KOO-si-TOI-sta |
-| 17 | seitsemäntoista | SAYT-seh-män-TOI-sta |
-| 18 | kahdeksantoista | KAH-dek-san-TOI-sta |
-| 19 | yhdeksäntoista | ÜH-dek-sän-TOI-sta |
-| 20 | kaksikymmentä | KAKH-si-KÜM-men-tä |
+| Number | Finnish         | Pronunciation        |
+| ------ | --------------- | -------------------- |
+| 0      | nolla           | NOL-la               |
+| 1      | yksi            | YÜK-si               |
+| 2      | kaksi           | KAKH-si              |
+| 3      | kolme           | KOL-meh              |
+| 4      | neljä           | NEL-yä               |
+| 5      | viisi           | VEE-si               |
+| 6      | kuusi           | KOO-si               |
+| 7      | seitsemän       | SAYT-seh-män         |
+| 8      | kahdeksan       | KAH-dek-san          |
+| 9      | yhdeksän        | ÜH-dek-sän           |
+| 10     | kymmenen        | KÜM-meh-nen          |
+| 11     | yksitoista      | ÜK-si-TOI-sta        |
+| 12     | kaksitoista     | KAKH-si-TOI-sta      |
+| 13     | kolmetoista     | KOL-meh-TOI-sta      |
+| 14     | neljätoista     | NEL-yä-TOI-sta       |
+| 15     | viisitoista     | VEE-si-TOI-sta       |
+| 16     | kuusitoista     | KOO-si-TOI-sta       |
+| 17     | seitsemäntoista | SAYT-seh-män-TOI-sta |
+| 18     | kahdeksantoista | KAH-dek-san-TOI-sta  |
+| 19     | yhdeksäntoista  | ÜH-dek-sän-TOI-sta   |
+| 20     | kaksikymmentä   | KAKH-si-KÜM-men-tä   |
 
 ## Tens (20-100)
 
-| Number | Finnish |
-|--------|---------|
-| 20 | kaksikymmentä |
-| 30 | kolmekymmentä |
-| 40 | neljäkymmentä |
-| 50 | viisikymmentä |
-| 60 | kuusikymmentä |
-| 70 | seitsemänkymmentä |
-| 80 | kahdeksankymmentä |
-| 90 | yhdeksänkymmentä |
-| 100 | sata |
+| Number | Finnish           |
+| ------ | ----------------- |
+| 20     | kaksikymmentä     |
+| 30     | kolmekymmentä     |
+| 40     | neljäkymmentä     |
+| 50     | viisikymmentä     |
+| 60     | kuusikymmentä     |
+| 70     | seitsemänkymmentä |
+| 80     | kahdeksankymmentä |
+| 90     | yhdeksänkymmentä  |
+| 100    | sata              |
 
 ### Compound Numbers
 
@@ -62,15 +62,15 @@ Learning numbers and time is fundamental to Finnish language learning. This less
 
 ## Larger Numbers
 
-| Number | Finnish |
-|--------|---------|
-| 100 | sata |
-| 200 | kaksisataa |
-| 500 | viisisataa |
-| 1,000 | tuhat |
-| 10,000 | kymmenentuhat |
-| 100,000 | satatuhat |
-| 1,000,000 | miljoona |
+| Number    | Finnish       |
+| --------- | ------------- |
+| 100       | sata          |
+| 200       | kaksisataa    |
+| 500       | viisisataa    |
+| 1,000     | tuhat         |
+| 10,000    | kymmenentuhat |
+| 100,000   | satatuhat     |
+| 1,000,000 | miljoona      |
 
 ## Telling Time
 
@@ -99,53 +99,53 @@ It is half past three.
 
 ### Time-Related Vocabulary
 
-| Finnish | English Meaning |
-|---------|-----------------|
-| aamu | morning |
-| päivä | daytime |
-| ilta | evening |
-| yö | night |
-| puoli | half (time expression) |
-| vartti | quarter (15 minutes) |
+| Finnish | English Meaning        |
+| ------- | ---------------------- |
+| aamu    | morning                |
+| päivä   | daytime                |
+| ilta    | evening                |
+| yö      | night                  |
+| puoli   | half (time expression) |
+| vartti  | quarter (15 minutes)   |
 
 ## Other Time Expressions
 
-| Expression | Finnish | Example |
-|------------|---------|---------|
-| Minutes ago | ... minuuttia sitten | Viisi minuuttia sitten (5 minutes ago) |
+| Expression    | Finnish                 | Example                                         |
+| ------------- | ----------------------- | ----------------------------------------------- |
+| Minutes ago   | ... minuuttia sitten    | Viisi minuuttia sitten (5 minutes ago)          |
 | Minutes later | ... minuuttia myöhemmin | Kymmenen minuuttia myöhemmin (10 minutes later) |
-| Today | tänään | Tänään on maanantai (Today is Monday) |
-| Tomorrow | huomenna | Huomenna on tiistai (Tomorrow is Tuesday) |
-| Yesterday | eilen | Eilen oli sunnuntai (Yesterday was Sunday) |
+| Today         | tänään                  | Tänään on maanantai (Today is Monday)           |
+| Tomorrow      | huomenna                | Huomenna on tiistai (Tomorrow is Tuesday)       |
+| Yesterday     | eilen                   | Eilen oli sunnuntai (Yesterday was Sunday)      |
 
 ## Days of the Week
 
-| Day | Finnish |
-|-----|---------|
-| Monday | maanantai |
-| Tuesday | tiistai |
+| Day       | Finnish     |
+| --------- | ----------- |
+| Monday    | maanantai   |
+| Tuesday   | tiistai     |
 | Wednesday | keskiviikko |
-| Thursday | torstai |
-| Friday | perjantai |
-| Saturday | lauantai |
-| Sunday | sunnuntai |
+| Thursday  | torstai     |
+| Friday    | perjantai   |
+| Saturday  | lauantai    |
+| Sunday    | sunnuntai   |
 
 ## Months
 
-| Month | Finnish | Abbreviation |
-|-------|---------|--------------|
-| January | tammikuu | tammi |
-| February | helmikuu | helmi |
-| March | maaliskuu | maalis |
-| April | huhtikuu | huhti |
-| May | toukokuu | touko |
-| June | kesäkuu | kesä |
-| July | heinäkuu | heinä |
-| August | elokuuta | elo |
-| September | syyskuu | syys |
-| October | lokakuu | loka |
-| November | marraskuu | marra |
-| December | joulukuu | joulu |
+| Month     | Finnish   | Abbreviation |
+| --------- | --------- | ------------ |
+| January   | tammikuu  | tammi        |
+| February  | helmikuu  | helmi        |
+| March     | maaliskuu | maalis       |
+| April     | huhtikuu  | huhti        |
+| May       | toukokuu  | touko        |
+| June      | kesäkuu   | kesä         |
+| July      | heinäkuu  | heinä        |
+| August    | elokuuta  | elo          |
+| September | syyskuu   | syys         |
+| October   | lokakuu   | loka         |
+| November  | marraskuu | marra        |
+| December  | joulukuu  | joulu        |
 
 ## Date Expressions
 

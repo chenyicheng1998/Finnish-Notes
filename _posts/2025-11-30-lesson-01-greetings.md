@@ -16,21 +16,21 @@ Lesson 1 covers the most basic and commonly used Finnish greetings, which you'll
 
 ### Informal Greetings
 
-| Finnish | English Meaning | Pronunciation Tip |
-|---------|-----------------|-------------------|
-| **Moi** | Hello/Goodbye | [moi] - like English "boy" |
-| **Moi moi** | Bye bye (informal) | Repeat "moi" twice |
-| **Hei** | Hey/Hello | [hei] - like English "hey" |
-| **Heipä** | Hey (more casual) | [hei-pä] |
+| Finnish     | English Meaning    | Pronunciation Tip          |
+| ----------- | ------------------ | -------------------------- |
+| **Moi**     | Hello/Goodbye      | [moi] - like English "boy" |
+| **Moi moi** | Bye bye (informal) | Repeat "moi" twice         |
+| **Hei**     | Hey/Hello          | [hei] - like English "hey" |
+| **Heipä**   | Hey (more casual)  | [hei-pä]                   |
 
 ### Formal Greetings
 
-| Finnish | English Meaning | Usage |
-|---------|-----------------|-------|
+| Finnish          | English Meaning             | Usage                          |
+| ---------------- | --------------------------- | ------------------------------ |
 | **Hyvää päivää** | Hello (literally: good day) | Work settings, formal contexts |
-| **Hyvää aamua** | Good morning | Morning use |
-| **Hyvää iltaa** | Good evening | Afternoon/evening use |
-| **Hyvää yötä** | Good night | Before sleep |
+| **Hyvää aamua**  | Good morning                | Morning use                    |
+| **Hyvää iltaa**  | Good evening                | Afternoon/evening use          |
+| **Hyvää yötä**   | Good night                  | Before sleep                   |
 
 ## Basic Introduction Phrases
 
@@ -68,23 +68,23 @@ A: Olen Kiinasta.
 
 ## Common Phrases
 
-| Finnish | English Meaning | Note |
-|---------|-----------------|------|
-| **Hauska tutustua** | Nice to meet you | Say when meeting for the first time |
-| **Kuinka voit?** | How are you? | Formal |
-| **Entä sinä?** | And you? | Use when responding |
-| **Kiitos, hyvin.** | Thank you, I'm well. | Standard response |
-| **Enkä huonosti.** | I'm doing well too. | Alternative response |
+| Finnish             | English Meaning      | Note                                |
+| ------------------- | -------------------- | ----------------------------------- |
+| **Hauska tutustua** | Nice to meet you     | Say when meeting for the first time |
+| **Kuinka voit?**    | How are you?         | Formal                              |
+| **Entä sinä?**      | And you?             | Use when responding                 |
+| **Kiitos, hyvin.**  | Thank you, I'm well. | Standard response                   |
+| **Enkä huonosti.**  | I'm doing well too.  | Alternative response                |
 
 ## Nationality Expressions
 
-| Country | Finnish | Nationality Adjective |
-|---------|---------|----------------------|
-| China | Kiina | kiinalainen |
-| United States | USA | amerikkalainen |
-| Japan | Japani | japanilainen |
-| United Kingdom | Britannia | brittiläinen |
-| Finland | Suomi | suomalainen |
+| Country        | Finnish   | Nationality Adjective |
+| -------------- | --------- | --------------------- |
+| China          | Kiina     | kiinalainen           |
+| United States  | USA       | amerikkalainen        |
+| Japan          | Japani    | japanilainen          |
+| United Kingdom | Britannia | brittiläinen          |
+| Finland        | Suomi     | suomalainen           |
 
 ```
 Olen kiinalainen.
