@@ -10,7 +10,25 @@
 
 <!-- Theme Toggle Script -->
 <script>
-  (function() {
+  (function () {
+    const updateButtonIcons = (theme) => {
+      const icons = { auto: '🌓', dark: '☀️', light: '🌙' };
+      const icon = icons[theme] || icons.auto;
+      
+      // Update mobile button (in header)
+      const mobileBtn = document.getElementById('theme-toggle');
+      if (mobileBtn) {
+        const beforeStyle = window.getComputedStyle(mobileBtn, '::before');
+        // Icon is set via CSS ::before
+      }
+      
+      // Update desktop button (in TOC)
+      const desktopIcon = document.getElementById('theme-icon-desktop');
+      if (desktopIcon) {
+        desktopIcon.textContent = icon;
+      }
+    };
+    
     const applyTheme = (theme) => {
       const root = document.documentElement;
       if (theme === 'dark') {
@@ -22,17 +40,25 @@
       } else {
         root.classList.remove('dark-theme', 'light-theme');
       }
+      updateButtonIcons(theme);
     };
-    
+
     const savedTheme = localStorage.getItem('theme') || 'auto';
     applyTheme(savedTheme);
-    
+
     window.toggleTheme = () => {
       const current = localStorage.getItem('theme') || 'auto';
       const newTheme = current === 'auto' ? 'dark' : current === 'dark' ? 'light' : 'auto';
       localStorage.setItem('theme', newTheme);
       applyTheme(newTheme);
     };
+    
+    // Update icons when DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', () => updateButtonIcons(savedTheme));
+    } else {
+      updateButtonIcons(savedTheme);
+    }
   })();
 </script>
 
@@ -44,35 +70,35 @@
     --color-link: #84b2ff;
     --color-visited-link: #b993ff;
   }
-  
+
   html.dark-theme .book-menu,
   html.dark-theme .book-toc,
   html.dark-theme .book-header,
   html.dark-theme .book-footer {
     background: #252525;
   }
-  
+
   html.dark-theme .book-page {
     background: #1e1e1e;
   }
-  
+
   html.dark-theme .markdown {
     color: #e0e0e0;
   }
-  
+
   html.dark-theme .markdown code {
     background: #2d2d2d;
     color: #f0f0f0;
   }
-  
+
   html.dark-theme .markdown pre {
     background: #2d2d2d;
   }
-  
+
   html.dark-theme .markdown table tr:nth-child(2n) {
     background: #252525;
   }
-  
+
   #theme-toggle {
     cursor: pointer;
     border: 1px solid rgba(128, 128, 128, 0.3);
@@ -83,20 +109,20 @@
     transition: all 0.2s;
     margin-right: 0.5rem;
   }
-  
+
   #theme-toggle:hover {
     background: rgba(128, 128, 128, 0.2);
     border-color: rgba(128, 128, 128, 0.5);
   }
-  
+
   #theme-toggle::before {
     content: '🌙';
   }
-  
+
   html.dark-theme #theme-toggle::before {
     content: '☀️';
   }
-  
+
   html.light-theme #theme-toggle::before {
     content: '🌙';
   }
