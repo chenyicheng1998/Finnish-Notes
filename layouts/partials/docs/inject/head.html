@@ -7,3 +7,95 @@
   nonce="FUNDING-CHOICES-NONCE"></script>
 <script
   nonce="FUNDING-CHOICES-NONCE">(function () { function signalGooglefcPresent() { if (!window.frames['googlefcPresent']) { if (document.body) { const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe); } else { setTimeout(signalGooglefcPresent, 0); } } } signalGooglefcPresent(); })();</script>
+
+<!-- Theme Toggle Script -->
+<script>
+  (function() {
+    const applyTheme = (theme) => {
+      const root = document.documentElement;
+      if (theme === 'dark') {
+        root.classList.add('dark-theme');
+        root.classList.remove('light-theme');
+      } else if (theme === 'light') {
+        root.classList.add('light-theme');
+        root.classList.remove('dark-theme');
+      } else {
+        root.classList.remove('dark-theme', 'light-theme');
+      }
+    };
+    
+    const savedTheme = localStorage.getItem('theme') || 'auto';
+    applyTheme(savedTheme);
+    
+    window.toggleTheme = () => {
+      const current = localStorage.getItem('theme') || 'auto';
+      const newTheme = current === 'auto' ? 'dark' : current === 'dark' ? 'light' : 'auto';
+      localStorage.setItem('theme', newTheme);
+      applyTheme(newTheme);
+    };
+  })();
+</script>
+
+<style>
+  html.dark-theme {
+    color-scheme: dark;
+    --body-background: #1e1e1e;
+    --body-font-color: #e0e0e0;
+    --color-link: #84b2ff;
+    --color-visited-link: #b993ff;
+  }
+  
+  html.dark-theme .book-menu,
+  html.dark-theme .book-toc,
+  html.dark-theme .book-header,
+  html.dark-theme .book-footer {
+    background: #252525;
+  }
+  
+  html.dark-theme .book-page {
+    background: #1e1e1e;
+  }
+  
+  html.dark-theme .markdown {
+    color: #e0e0e0;
+  }
+  
+  html.dark-theme .markdown code {
+    background: #2d2d2d;
+    color: #f0f0f0;
+  }
+  
+  html.dark-theme .markdown pre {
+    background: #2d2d2d;
+  }
+  
+  html.dark-theme .markdown table tr:nth-child(2n) {
+    background: #252525;
+  }
+  
+  #theme-toggle {
+    cursor: pointer;
+    border: none;
+    background: transparent;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+  }
+  
+  #theme-toggle:hover {
+    opacity: 1;
+  }
+  
+  #theme-toggle::before {
+    content: '🌙';
+  }
+  
+  html.dark-theme #theme-toggle::before {
+    content: '☀️';
+  }
+  
+  html.light-theme #theme-toggle::before {
+    content: '🌙';
+  }
+</style>
