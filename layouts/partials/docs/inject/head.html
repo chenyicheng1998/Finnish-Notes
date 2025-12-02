@@ -15,21 +15,20 @@
       const icons = { auto: '🌓', dark: '☀️', light: '🌙' };
       const icon = icons[theme] || icons.auto;
       
-      // Update mobile button (in header)
-      const mobileBtn = document.getElementById('theme-toggle');
-      if (mobileBtn) {
-        const beforeStyle = window.getComputedStyle(mobileBtn, '::before');
-        // Icon is set via CSS ::before
-      }
+      // Update mobile button (in header) - handled by CSS ::before
       
       // Update desktop button (in TOC)
       const desktopIcon = document.getElementById('theme-icon-desktop');
       if (desktopIcon) {
         desktopIcon.textContent = icon;
       }
-    };
-    
-    const applyTheme = (theme) => {
+      
+      // Update menu button (always visible)
+      const menuIcon = document.getElementById('theme-icon-menu');
+      if (menuIcon) {
+        menuIcon.textContent = icon;
+      }
+    };    const applyTheme = (theme) => {
       const root = document.documentElement;
       if (theme === 'dark') {
         root.classList.add('dark-theme');
@@ -52,7 +51,7 @@
       localStorage.setItem('theme', newTheme);
       applyTheme(newTheme);
     };
-    
+
     // Update icons when DOM is ready
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', () => updateButtonIcons(savedTheme));
@@ -123,10 +122,12 @@
     margin-left: 16rem;
     margin-right: 16rem;
     max-width: none;
+    padding: 1rem 2rem;
   }
 
   /* On mobile, revert to default behavior */
   @media screen and (max-width: 56rem) {
+
     .book-menu,
     .book-toc {
       position: static;
@@ -136,6 +137,7 @@
     .book-page {
       margin-left: 0;
       margin-right: 0;
+      padding: 1rem;
     }
   }
 
@@ -165,5 +167,24 @@
 
   html.light-theme #theme-toggle::before {
     content: '🌙';
+  }
+
+  /* Theme toggle buttons styling */
+  #theme-toggle-desktop,
+  #theme-toggle-menu {
+    width: 100%;
+    cursor: pointer;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    background: rgba(128, 128, 128, 0.1);
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 4px;
+    transition: all 0.2s;
+  }
+
+  #theme-toggle-desktop:hover,
+  #theme-toggle-menu:hover {
+    background: rgba(128, 128, 128, 0.2);
+    border-color: rgba(128, 128, 128, 0.5);
   }
 </style>
