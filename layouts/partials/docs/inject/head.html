@@ -99,6 +99,46 @@
     background: #252525;
   }
 
+  /* Wide layout - remove max-width constraint and make sidebars fixed width */
+  .container {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  /* Fix sidebar widths and positions */
+  .book-menu {
+    position: fixed;
+    left: 0;
+    width: 16rem;
+  }
+
+  .book-toc {
+    position: fixed;
+    right: 0;
+    width: 16rem;
+  }
+
+  /* Adjust main content area to fill space between sidebars */
+  .book-page {
+    margin-left: 16rem;
+    margin-right: 16rem;
+    max-width: none;
+  }
+
+  /* On mobile, revert to default behavior */
+  @media screen and (max-width: 56rem) {
+    .book-menu,
+    .book-toc {
+      position: static;
+      width: auto;
+    }
+
+    .book-page {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
   #theme-toggle {
     cursor: pointer;
     border: 1px solid rgba(128, 128, 128, 0.3);
