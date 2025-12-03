@@ -14,21 +14,21 @@
     const updateButtonIcons = (theme) => {
       const icons = { auto: '🌓', dark: '☀️', light: '🌙' };
       const icon = icons[theme] || icons.auto;
-      
+
       // Update mobile button (in header) - handled by CSS ::before
-      
+
       // Update desktop button (in TOC)
       const desktopIcon = document.getElementById('theme-icon-desktop');
       if (desktopIcon) {
         desktopIcon.textContent = icon;
       }
-      
+
       // Update menu button (always visible)
       const menuIcon = document.getElementById('theme-icon-menu');
       if (menuIcon) {
         menuIcon.textContent = icon;
       }
-    };    const applyTheme = (theme) => {
+    }; const applyTheme = (theme) => {
       const root = document.documentElement;
       if (theme === 'dark') {
         root.classList.add('dark-theme');
